@@ -1,8 +1,9 @@
 ***preface:***
-  Being of the opinion that we have been approaching the ethical guidance in training AI models poorly, I propose trying varying methods.
+ Please read and if you have thoughts share them with me, I am open to all feedback and or assistance. If you may know someone else interested in the topic, share it with them please.
 
-
-Please read and if you have thoughts share them with me, I am open to all feedback and or assistance. If you don't want to get involved, you may know of someone else interested in the topic, share it with them please. 
+***Contact***
+### name: J Blaine Martin
+### email: martinstex52@gmail.com 
 
   
 **Project Title:** 
