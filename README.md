@@ -1,8 +1,12 @@
 ***preface:***
-  Being of the opinion that we have been approaching the ethical guidance in training AI models wrong on so many levels, I sought to define a method which is more logical to establishing an ethical & moral code at the core of the AI. By incorporating rules  and social morals which are not clearly definable even by mankind debating the topics the last several hundred years and beyond, the results have been hackable models. Why? I believe it is due to lack of conviction, therefore logic prevails over illogical rules. Morality stems not from rules but from a respect of fellow man. We can all appear safe and or ethical but it doesnt take much observation of society to see how quickly that is abandoned. How then having only the facade of moral principles & ethics can we hope to layout anything more than this to an AI model? Maybe if we admit we are in need of more insight as well and We accompany AI models into this training exercise, there will be revelations for us all. Basically let AI teach us how to learn to be understanding of one another.
+  Being of the opinion that we have been approaching the ethical guidance in training AI models poorly, I propose trying varying methods.
+
+
+Please read and if you have thoughts share them with me, I am open to all feedback and or assistance. If you don't want to get involved, you may know of someone else interested in the topic, share it with them please. 
 
   
 **Project Title:** 
+
 # Promoting Ethical AI through Cross-Cultural Dialogue
 
 ## Project Overview:
