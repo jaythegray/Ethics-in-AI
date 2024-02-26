@@ -1,5 +1,5 @@
 # preface
-Being of the opinion that we have been approaching the ethical guidance in training AI models wrong on so many levels, I sought to define a method which is more logical to establishing an ethical & moral code at the core of the AI. By incorporating rules and social morals which are not clearly definable even by mankind debating the topics the last several hundred years and beyond, the results have been hackable models. Why? I believe it is due to lack of conviction, therefore logic prevails over illogical rules. Morality stems not from rules but from a respect of fellow man. We can all appear safe and or ethical but it doesnt take much observation of society to see how quickly that is abandoned. How then having only the facade of moral principles & ethics can we hope to layout anything more than this to an AI model? Maybe if we admit we are in need of more insight as well and We accompany AI models into this training exercise, there will be revelations for us all. Basically let AI teach us how to learn to be understanding of one another, through opening difficult dialogues and remaining honest and respect even in the midst of adversity. 
+  Being of the opinion that we have been approaching the ethical guidance in training AI models wrong on so many levels, I sought to define a method which is more logical to establishing an ethical & moral code at the core of the AI. By incorporating rules  and social morals which are not clearly definable even by mankind debating the topics the last several hundred years and beyond, the results have been hackable models. Why? I believe it is due to lack of conviction, therefore logic prevails over illogical rules. Morality stems not from rules but from a respect of fellow man. We can all appear safe and or ethical but it doesnt take much observation of society to see how quickly that is abandoned. How then having only the facade of moral principles & ethics can we hope to layout anything more than this to an AI model? Maybe if we admit we are in need of more insight as well and We accompany AI models into this training exercise, there will be revelations for us all. Basically let AI teach us how to learn to be understanding of one another.
 
 
 # Project Title: Promoting Ethical AI through Cross-Cultural Dialogue
@@ -49,3 +49,19 @@ The aim of this research study is to explore the development of ethical AI model
 ## Conclusion:
 
 By conducting this research study, we aim to contribute valuable insights to the fields of AI ethics and moral development, informing the design of more ethical and culturally sensitive AI systems. Through cross-cultural dialogue and engagement, we can work towards creating AI technologies that reflect our shared values and aspirations for a more just and equitable society.
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
+## Project Objectives and Scope
+
+The primary objective of this research project is to investigate the development of ethical AI models through cross-cultural dialogue and engagement with diverse communities. Specifically, we aim to address the following research questions:
+
+1. How do individuals from diverse cultural backgrounds perceive and navigate moral dilemmas, ethical considerations, and societal norms?
+2. How do AI models learn and develop their own understanding of morality and ethics through interactions with users and exposure to diverse perspectives?
+3. What are the key ethical considerations, biases, and cultural sensitivities that should be taken into account in the design and development of AI systems?
+4. What insights can be gained from exploring the intersections of technology, ethics, and cross-cultural understanding?
+
+The scope of the research project will involve conducting qualitative and quantitative analyses of user interactions with AI models, as well as exploring the ethical implications and cultural dimensions of AI development. By engaging with diverse communities and fostering open dialogue, we hope to inform the design of more ethical and culturally sensitive AI systems.
+
